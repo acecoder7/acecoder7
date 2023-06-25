@@ -16,3 +16,5 @@
 
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=acecoder7&theme=discord)
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=acecoder7&theme=xcode)
