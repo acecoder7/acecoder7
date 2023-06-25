@@ -18,3 +18,10 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=acecoder7&theme=discord)
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=acecoder7&theme=xcode)
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acecoder7&layout=compact&theme=blue-green)
+
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acecoder7&layout=compact&theme=blue-green)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
